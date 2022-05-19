@@ -32,5 +32,5 @@ Without following the rules above, your issue will be closed without explanation
 
 Device:
 Android version:
-Magisk version name:
-Magisk version code:
+Magisk version name:756d
+Magisk version code:756d
